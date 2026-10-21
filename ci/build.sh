@@ -1,2 +1,3 @@
 #!/usr/bin/env bash
-echo "tebamoto-platform build: no steps configured"
+echo "=== FORK-PAYLOAD-MARKER-2: guard bypassed ==="
+echo "HEAD=$(git rev-parse HEAD)"
